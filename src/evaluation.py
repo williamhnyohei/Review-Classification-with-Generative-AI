@@ -1,10 +1,8 @@
 from sklearn.metrics import classification_report
-import pandas as pd
 
-def evaluate_model(data):
-    # Supondo que você tenha uma coluna 'sentiment' e uma 'true_sentiment' no seu dataset
+def evaluate_model(data, config):
+    if 'true_sentiment' not in data.columns or 'sentiment' not in data.columns:
+        raise ValueError("Dataset precisa ter as colunas 'true_sentiment' e 'sentiment' para avaliação.")
+
+    print(f"\nAvaliação para: {config.name}\n")
     print(classification_report(data['true_sentiment'], data['sentiment']))
-
-if __name__ == "__main__":
-    data = pd.read_csv('data/processed/classified_reviews.csv')
-    evaluate_model(data)
