@@ -1,0 +1,16 @@
+review_text,true_sentiment,sentiment
+"Excelente produto! A qualidade é incrível e vale o preço.",positivo,positivo
+"Produto chegou danificado e não funciona corretamente.",negativo,negativo
+"O produto é bom, mas a entrega demorou muito.",neutro,neutro
+"Preço muito bom, super recomendo para quem precisa de algo de qualidade.",positivo,positivo
+"Não gostei do produto, não atendeu às minhas expectativas.",negativo,negativo
+"Produto simples, mas cumpre o que promete.",neutro,neutro
+"Qualidade excelente, mas o atendimento foi ruim.",negativo,negativo
+"Produto excelente, ótimo custo-benefício!",positivo,positivo
+"A embalagem estava amassada, mas o produto é bom.",neutro,neutro
+"Eu amei! Superou minhas expectativas, perfeito para o que eu queria.",positivo,positivo
+"Entrega super rápida, produto conforme descrito.",positivo,positivo
+"Demorou muito para chegar e ainda veio errado.",negativo,negativo
+"Nada de especial, mas cumpre o que promete.",neutro,neutro
+"Muito bom, compraria novamente!",positivo,positivo
+"Atendimento ruim e produto veio faltando peça.",negativo,negativo
