@@ -1,0 +1,42 @@
+[
+  {
+    "headline": "Stocks surge after positive economic outlook",
+    "true_sentiment": "positivo"
+  },
+  {
+    "headline": "Protests escalate amid political unrest in the capital",
+    "true_sentiment": "negativo"
+  },
+  {
+    "headline": "Moderate weather expected across the country this weekend",
+    "true_sentiment": "neutro"
+  },
+  {
+    "headline": "Tech companies report record earnings for Q2",
+    "true_sentiment": "positivo"
+  },
+  {
+    "headline": "Rising unemployment raises concerns among economists",
+    "true_sentiment": "negativo"
+  },
+  {
+    "headline": "Local festival draws thousands of visitors",
+    "true_sentiment": "positivo"
+  },
+  {
+    "headline": "Government announces new tax regulations",
+    "true_sentiment": "neutro"
+  },
+  {
+    "headline": "Natural disaster leaves several communities in crisis",
+    "true_sentiment": "negativo"
+  },
+  {
+    "headline": "New educational reforms receive mixed reactions",
+    "true_sentiment": "neutro"
+  },
+  {
+    "headline": "Scientists celebrate breakthrough in cancer treatment",
+    "true_sentiment": "positivo"
+  }
+]
